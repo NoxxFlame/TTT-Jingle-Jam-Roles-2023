@@ -1065,6 +1065,7 @@ std = {
                 EqualValues = {},
                 ExcludedKeys = {},
                 GetKeys = {},
+                HasItemWithPropertyValue = {},
                 HasTable = {},
                 HasValue = {},
                 IntersectedKeys  = {},
